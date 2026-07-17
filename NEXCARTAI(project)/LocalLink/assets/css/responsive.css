@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+  .page-shell { padding: 14px; }
+  .topbar { flex-direction: column; gap: 12px; border-radius: 24px; }
+  .main-nav { flex-wrap: wrap; justify-content: center; }
+  .hero, .hero.compact-hero, .detail-layout, .feature-grid, .product-grid, .seller-grid, .category-grid, .stats-grid, .profile-card { grid-template-columns: 1fr; display: grid; }
+  .search-card { justify-content: stretch; }
+  .search-card input { width: 100%; }
+  .toolbar { flex-direction: column; }
+  .toolbar input, .toolbar select { min-width: 100%; }
+}
