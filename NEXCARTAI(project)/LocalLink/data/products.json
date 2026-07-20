@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "title": "Wildflower Honey Jar",
+    "category": "Food",
+    "price": 1162,
+    "rating": 4.8,
+    "seller": "Maya's Home Kitchen",
+    "location": "North District",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+    "description": "Homemade wildflower honey harvested from a local beekeeper and packaged in a small home kitchen.",
+    "specs": ["250g jar", "Small-batch", "100% Organic", "No additives"],
+    "reviews": [
+      { "name": "Alicia", "text": "Amazing homemade quality! Supports local entrepreneurship.", "rating": 5 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Handwoven Clay Vase",
+    "category": "Handicrafts",
+    "price": 2324,
+    "rating": 4.7,
+    "seller": "Priya's Handmade Ceramics",
+    "location": "West Market",
+    "image": "https://images.unsplash.com/photo-1517705008128-361805f42e86?auto=format&fit=crop&w=900&q=80",
+    "description": "Each vase is individually hand-thrown and painted by Priya, a local woman entrepreneur working from her home studio.",
+    "specs": ["Handmade ceramic", "Hand-painted finish", "One-of-a-kind", "Eco-friendly"],
+    "reviews": [
+      { "name": "Daniel", "text": "Beautiful! Supporting a talented local artisan.", "rating": 5 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Golden Sourdough Loaf",
+    "category": "Bakery",
+    "price": 747,
+    "rating": 4.9,
+    "seller": "Arun's Artisan Bakery",
+    "location": "Riverside",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+    "description": "Traditional slow-fermented sourdough baked fresh every morning in Arun's home bakery using ancestral recipes.",
+    "specs": ["Freshly baked daily", "Home-made tradition", "No preservatives", "Gluten-rich"],
+    "reviews": [
+      { "name": "Sofia", "text": "Tastes like homemade bread! Arun is an amazing local baker.", "rating": 5 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Garden Herb Candle",
+    "category": "Home Decor",
+    "price": 1328,
+    "rating": 4.6,
+    "seller": "Ritu's Natural Candles",
+    "location": "Harbor Lane",
+    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=80",
+    "description": "Hand-poured soy candles made by Ritu in her small home workshop with natural herbs and essential oils.",
+    "specs": ["Hand-poured", "Soy wax", "8 hour burn time", "Eco-friendly"],
+    "reviews": [
+      { "name": "Mina", "text": "Perfect! Supporting a talented home entrepreneur.", "rating": 4 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Rosemary Olive Oil",
+    "category": "Food",
+    "price": 996,
+    "rating": 4.8,
+    "seller": "Sunita's Organic Farm Kitchen",
+    "location": "Elm Street",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=900&q=80",
+    "description": "Cold-pressed olive oil infused with homegrown rosemary, made by Sunita's family farm in small batches.",
+    "specs": ["Cold-pressed", "Homemade infusion", "Organic herbs", "Small-batch"],
+    "reviews": [
+      { "name": "Nora", "text": "Delicious! Supporting a small local farm.", "rating": 5 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bright Ceramic Mug",
+    "category": "Home Decor",
+    "price": 1494,
+    "rating": 4.7,
+    "seller": "Vikram's Studio Pottery",
+    "location": "Old Town",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=900&q=80",
+    "description": "Hand-thrown ceramic mug made by Vikram in his personal pottery studio with a cheerful handmade glaze.",
+    "specs": ["Hand-thrown", "Handmade glaze", "Microwave-safe", "One-of-a-kind"],
+    "reviews": [
+      { "name": "James", "text": "Beautiful handmade piece from a talented local potter.", "rating": 5 }
+    ]
+  }
+]
+    "price": 1494,
+    "rating": 4.7,
+    "seller": "Studio Clay",
+    "location": "Old Town",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=900&q=80",
+    "description": "A hand-thrown mug with a cheerful glaze finish for daily rituals.",
+    "specs": ["Ceramic", "Handmade", "Microwave-safe"],
+    "reviews": [
+      { "name": "James", "text": "Lovely mug with a premium feel.", "rating": 5 }
+    ]
+  }
+]

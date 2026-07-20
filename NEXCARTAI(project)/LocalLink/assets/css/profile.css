@@ -1,0 +1,3 @@
+.profile-card { grid-template-columns: 1fr 1fr; align-items: center; }
+.profile-card .profile-portrait { width: 110px; height: 110px; border-radius: 50%; object-fit: cover; }
+.profile-card .contact-list { color: var(--muted); }

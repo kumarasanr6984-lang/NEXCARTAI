@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Buyer Home | NexCartAI</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/buyer.css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" />
+    <link rel="stylesheet" href="assets/css/darkmode.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="topbar">
+        <a class="brand" href="buyer-home.html">
+          <span class="brand-mark">L</span>
+          <span>NexCartAI</span>
+        </a>
+        <nav class="main-nav">
+          <a href="buyer-home.html">Home</a>
+          <a href="browse.html">Browse</a>
+          <a href="wishlist.html">My Preference</a>
+          <a href="connectors.html">Connectors</a>
+          <a href="buyer-profile.html">Profile</a>
+          <button class="theme-toggle" id="themeToggle" type="button" aria-label="Toggle theme" onclick="window.toggleTheme()">🌙</button>
+        </nav>
+      </header>
+
+      <main class="content-stack">
+        <section class="hero compact-hero">
+          <div>
+            <p class="eyebrow">Buyer dashboard</p>
+            <h1>Find the best nearby products and sellers</h1>
+            <p>Search, discover, and support local makers from one beautiful dashboard.</p>
+          </div>
+          <div class="search-card">
+            <input id="searchInput" placeholder="Search honey, candles, bread..." />
+            <button id="voiceBtn" class="btn btn-secondary" title="Voice search" style="padding: 0; width: 44px;">🎙️</button>
+            <button id="searchButton" class="btn btn-primary">Search</button>
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-head">
+            <h2>Popular categories</h2>
+          </div>
+          <div class="category-grid" id="categoryGrid"></div>
+        </section>
+
+        <section class="section">
+          <div class="section-head">
+            <h2>Recommended for you</h2>
+            <a href="browse.html">See all</a>
+          </div>
+          <div class="product-grid" id="recommendationGrid"></div>
+        </section>
+
+        <section class="section">
+          <div class="section-head">
+            <h2>Nearby shops</h2>
+          </div>
+          <div class="seller-grid" id="sellerGrid"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="assets/js/storage.js"></script>
+    <script src="assets/js/app.js"></script>
+    <script src="assets/js/recommendation.js"></script>
+    <script src="assets/js/search.js"></script>
+    <script src="assets/js/buyer.js"></script>
+    <script src="assets/js/voice-assistant.js"></script>
+    <script src="assets/js/darkmode.js"></script>
+  </body>
+</html>

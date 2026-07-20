@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "name": "Alicia",
+    "rating": 5,
+    "text": "Amazing honey with a fresh and floral taste."
+  },
+  {
+    "id": 2,
+    "productId": 2,
+    "name": "Daniel",
+    "rating": 5,
+    "text": "The craftsmanship is striking and elegant."
+  },
+  {
+    "id": 3,
+    "productId": 3,
+    "name": "Sofia",
+    "rating": 5,
+    "text": "We ordered it for breakfast and it disappeared quickly."
+  }
+]

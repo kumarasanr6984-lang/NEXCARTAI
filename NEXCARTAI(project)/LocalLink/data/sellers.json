@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Maya's Home Kitchen",
+    "location": "North District",
+    "rating": 4.8,
+    "distance": "1.2 km",
+    "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=80",
+    "phone": "+1 555 0123",
+    "whatsapp": "+1 555 0123",
+    "email": "maya@nexcartai.dev",
+    "description": "Small-batch homemade honey and preserves made with love from my kitchen"
+  },
+  {
+    "id": 2,
+    "name": "Priya's Handmade Ceramics",
+    "location": "West Market",
+    "rating": 4.7,
+    "distance": "2.5 km",
+    "image": "https://images.unsplash.com/photo-1512428813834-c702c7702b78?auto=format&fit=crop&w=900&q=80",
+    "phone": "+1 555 0456",
+    "whatsapp": "+1 555 0456",
+    "email": "priya@nexcartai.dev",
+    "description": "Handcrafted ceramics and pottery made by a local woman entrepreneur"
+  },
+  {
+    "id": 3,
+    "name": "Arun's Artisan Bakery",
+    "location": "Riverside",
+    "rating": 4.9,
+    "distance": "3.4 km",
+    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?auto=format&fit=crop&w=900&q=80",
+    "phone": "+1 555 0789",
+    "whatsapp": "+1 555 0789",
+    "email": "arun@nexcartai.dev",
+    "description": "Traditional sourdough and fresh bread baked daily in a home kitchen"
+  },
+  {
+    "id": 4,
+    "name": "Ritu's Natural Candles",
+    "location": "Harbor Lane",
+    "rating": 4.6,
+    "distance": "2.1 km",
+    "image": "https://images.unsplash.com/photo-1519227788101-2b37ce8e4999?auto=format&fit=crop&w=900&q=80",
+    "phone": "+1 555 0234",
+    "whatsapp": "+1 555 0234",
+    "email": "ritu@nexcartai.dev",
+    "description": "Hand-poured eco-friendly candles crafted by a home-based artisan"
+  },
+  {
+    "id": 5,
+    "name": "Sunita's Organic Farm Kitchen",
+    "location": "Elm Street",
+    "rating": 4.8,
+    "distance": "1.8 km",
+    "image": "https://images.unsplash.com/photo-1488459716781-6f3ee1f18767?auto=format&fit=crop&w=900&q=80",
+    "phone": "+1 555 0567",
+    "whatsapp": "+1 555 0567",
+    "email": "sunita@nexcartai.dev",
+    "description": "Small family farm producing organic olive oil and homemade products"
+  },
+  {
+    "id": 6,
+    "name": "Vikram's Studio Pottery",
+    "location": "Old Town",
+    "rating": 4.7,
+    "distance": "2.8 km",
+    "image": "https://images.unsplash.com/photo-1565193566173-7ceb50b8f00b?auto=format&fit=crop&w=900&q=80",
+    "phone": "+1 555 0890",
+    "whatsapp": "+1 555 0890",
+    "email": "vikram@nexcartai.dev",
+    "description": "Individual ceramicist creating unique handmade pottery pieces"
+  }
+]

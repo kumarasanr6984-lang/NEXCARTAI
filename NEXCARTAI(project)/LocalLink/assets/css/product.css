@@ -1,0 +1,3 @@
+.detail-panel .price-tag { font-size: 1.8rem; font-weight: 800; margin: 10px 0; }
+.detail-panel ul { color: var(--muted); line-height: 1.8; }
+.detail-panel .btn-row { display:flex; gap:10px; flex-wrap:wrap; margin-top: 18px; }

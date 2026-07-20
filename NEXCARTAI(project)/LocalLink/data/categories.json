@@ -1,0 +1,8 @@
+[
+  { "name": "Food", "icon": "🍯", "description": "Honey, oils, pantry picks" },
+  { "name": "Bakery", "icon": "🥐", "description": "Fresh loaves and pastries" },
+  { "name": "Handicrafts", "icon": "🎨", "description": "Ceramics, woven goods, art" },
+  { "name": "Home Decor", "icon": "🏡", "description": "Candles, vases, decor accents" },
+  { "name": "Wellness", "icon": "🌿", "description": "Botanical and self-care items" },
+  { "name": "Jewelry", "icon": "💍", "description": "Handmade accessories and gifts" }
+]
